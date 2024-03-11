@@ -23,17 +23,21 @@ A mapping study on mangroves from optical remote sensing imagery data Sentinel-2
 
 Figure 1. Display of Composite Bands on Sentinel-2A Image, (a) True Colour Composite 4- 3-2, (b) False Colour Composite 8A-11-4, (c) False Colour Composite 11-8-4 
 
+
 ## Supervised Classification Using Random Forest 
 
 Determination of spectral indices is carried out as a reference reference for the classification of mangrove ecosystem land cover using the Random Forest algorithm model. The determination of this index will be processed to find out how influential the variables used in the classification using random forest. The spectral index uses several indices such as NDVI (Normalized Difference Vegetation Index), MNDWI (Modified Normalized Difference Water Index), LSWI (Land Surface Water Index), SAVI (Soil-Adjusted Vegetation Index), NDBI (Normalized Difference Built-Up Index), and Sentinel-1 VV and VH polarisation.
 
 Classification Random Forest is a supervised classification method that requires a pixel sampling process. In addition to the samples samples, some predefined spectral indices are required to be used as a modelling reference because there are to be a modelling reference because there are several land cover classes with different pixel values. The classes land cover classes required for classification include, among others, Mangrove Vegetation Mangrove Vegetation, Non-mangrove Vegetation, Built-up Land, Open Land, and Water Body. Open Land, and Water Body.
 
+
 ![map](https://github.com/aldearizka99/MangroveIKN/assets/57086261/ad25fd89-89d1-406a-8884-d204bd56a2ab)
 
 Figure. 2 Random Forest Classification Land Change Map, (a) Land Cover Map in 2019, (b) Land Cover Map in 2022, (c) Land Change Map in 2019 and 2022
 
+
 The results showed that the dominance of land cover area in 2019 and 2022 was in the non-mangrove vegetation class of 102,014.078 Ha and 108,166.27 Ha. The results of mangrove vegetation land cover class are obtained for processing vegetation density level using NDVI index with sparse, moderate, and dense density. It is identified that the mangrove ecosystem in Balikpapan Bay is dominated by dense vegetation density with an area in 2019 of 14.985,81 Ha and in 2022 of 10.661,27 Ha. The result of accuracy test conducted in 2019 amounted to 88.89% and in 2022 amounted to 91.67%.
+
 
 ![image](https://github.com/aldearizka99/MangroveIKN/assets/57086261/f6daf677-0733-40e2-982b-ec1ab61d4424)
 
@@ -43,11 +47,13 @@ Figure 3. Land Cover Class Area of Mangrove Ecosystem in 2019 and 2022
 ## Mangrove Vegetation Density 
 Classification of mangrove vegetation density was processed using using the NDVI index to determine the level of greenness on the mangrove objects studied. Classification of mangrove vegetation density is determined based on the threshold to get the density class. canopy density class. Vegetation canopy density class is divided into 3 class, sparse density, moderate density, and dense density. Processing of mangrove vegetation density in 2019 and 2022 resulted in the calculation of reductions and additions to mangrove land. It aims to determine changes in mangrove land during the period of 3 years.
 
+
 ![image](https://github.com/aldearizka99/MangroveIKN/assets/57086261/664bddf1-1504-4d9a-8e17-732c34bdc1c4)
 
 Figure 4. NDVI Classification Threshold Class 
 
 Source: Departemen Kehutanan (2005)
+
 
 
 ![image](https://github.com/aldearizka99/MangroveIKN/assets/57086261/3c10f0ff-1d72-4364-ac55-9a5bb8bb2608)
