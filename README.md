@@ -45,7 +45,10 @@ Classification of mangrove vegetation density was processed using using the NDVI
 
 ![image](https://github.com/aldearizka99/MangroveIKN/assets/57086261/664bddf1-1504-4d9a-8e17-732c34bdc1c4)
 
-Figure 4. NDVI Classification Threshold Class
+Figure 4. NDVI Classification Threshold Class 
+
+Source: Departemen Kehutanan (2005)
+
 
 ![image](https://github.com/aldearizka99/MangroveIKN/assets/57086261/3c10f0ff-1d72-4364-ac55-9a5bb8bb2608)
 
