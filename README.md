@@ -45,6 +45,6 @@ Figure 3. Land Cover Class Area of Mangrove Ecosystem in 2019 and 2022
 - SRTM DEM
 
 ### Literature
--Chen, B., Xiao, X., Li, X., Pan, L., Doughty, R., Ma, J., Dong, J., Qin, Y., Zhao, B., Wu, Z., Sum, R., Lan, G., Xie, G., Clinton, N., & Giri, C. (2015). A mangrove forest map of China in 2015: Analysis of time series Landsat 7/8 and Sentinel-1A imagery in Google Earth Engine cloud computing platform. Chinese Academy of Tropical Ag. 1–53
+- Chen, B., Xiao, X., Li, X., Pan, L., Doughty, R., Ma, J., Dong, J., Qin, Y., Zhao, B., Wu, Z., Sum, R., Lan, G., Xie, G., Clinton, N., & Giri, C. (2015). A mangrove forest map of China in 2015: Analysis of time series Landsat 7/8 and Sentinel-1A imagery in Google Earth Engine cloud computing platform. Chinese Academy of Tropical Ag. 1–53
 - Dharmawan, I.W.E., Suyarso, I.U., Yaya, P. B. & P. (2020). Panduan Monitoring Struktur Komunitas Mangrove di Indonesia. Bogor: PT Media Sains Nasional.
 - Rijal, S. S., Pham, T. D., Noer’Aulia, S., Putera, M. I., & Saintilan, N. (2023). Mapping Mangrove Above-Ground Carbon Using Multi-Source Remote Sensing Data and Machine Learning Approach in Loh Buaya, Komodo National Park, Indonesia. Forests, 14(1). https://doi.org/10.3390/f14010094.
