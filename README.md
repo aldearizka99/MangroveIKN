@@ -39,6 +39,19 @@ The results showed that the dominance of land cover area in 2019 and 2022 was in
 
 Figure 3. Land Cover Class Area of Mangrove Ecosystem in 2019 and 2022
 
+
+## Mangrove Vegetation Density 
+Classification of mangrove vegetation density was processed using using the NDVI index to determine the level of greenness on the mangrove objects studied. Classification of mangrove vegetation density is determined based on the threshold to get the density class. canopy density class. Vegetation canopy density class is divided into 3 class, sparse density, moderate density, and dense density. Processing of mangrove vegetation density in 2019 and 2022 resulted in the calculation of reductions and additions to mangrove land. It aims to determine changes in mangrove land during the period of 3 years.
+
+![image](https://github.com/aldearizka99/MangroveIKN/assets/57086261/664bddf1-1504-4d9a-8e17-732c34bdc1c4)
+
+Figure 4. NDVI Classification Threshold Class
+
+![image](https://github.com/aldearizka99/MangroveIKN/assets/57086261/3c10f0ff-1d72-4364-ac55-9a5bb8bb2608)
+
+Figure 5. Classification of Mangrove Vegetation (a) Mangrove Forest Change Map 2019 and 2022, (b) Classification of Mangrove Vegetation Density in 2019, (c) Classification of Mangrove Vegetation Density in 2022.
+
+
 ### Data Requirement
 - Sentinel-2 MSI: MultiSpectral Instrument, Level-2A
 - Sentinel-1 SAR GRD: C-band Synthetic Aperture Radar Ground Range Detected di-import
