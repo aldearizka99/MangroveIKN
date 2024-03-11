@@ -52,6 +52,9 @@ Figure 4. NDVI Classification Threshold Class
 Figure 5. Classification of Mangrove Vegetation (a) Mangrove Forest Change Map 2019 and 2022, (b) Classification of Mangrove Vegetation Density in 2019, (c) Classification of Mangrove Vegetation Density in 2022.
 
 
+There are changes in mangrove land within the 3-year period, both adding and subtracting land. This is due to restoration activities with reforestation which resulted in an increase in mangrove land area and varied vegetation density, while the reduction of land is due to the transfer of land into non-mangrove land for various reasons. Evaluation and handling of various possibilities that have the potential for damage to the mangrove ecosystem is needed.
+
+
 ### Data Requirement
 - Sentinel-2 MSI: MultiSpectral Instrument, Level-2A
 - Sentinel-1 SAR GRD: C-band Synthetic Aperture Radar Ground Range Detected di-import
